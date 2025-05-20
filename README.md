@@ -1,6 +1,7 @@
 # Encanto_das_Flores
 
-* Um site criado com WordPress é fácil de montar e gerenciar, mesmo sem saber programar. A plataforma oferece milhares de temas para personalizar o visual e plugins que adicionam funções como formulários, galerias, redes sociais e até lojas virtuais. É possível criar blogs, sites institucionais, portfólios, lojas online e muito mais. Além disso, o WordPress é seguro, recebe atualizações frequentes e é uma das opções mais populares para quem quer ter um site profissional com praticidade.
+## Site feito no WordPress
+Um site criado com WordPress é fácil de montar e gerenciar, mesmo sem saber programar. A plataforma oferece milhares de temas para personalizar o visual e plugins que adicionam funções como formulários, galerias, redes sociais e até lojas virtuais. É possível criar blogs, sites institucionais, portfólios, lojas online e muito mais. Além disso, o WordPress é seguro, recebe atualizações frequentes e é uma das opções mais populares para quem quer ter um site profissional com praticidade.
 
 
 ![Captura de tela 2025-05-20 162242](https://github.com/user-attachments/assets/6a77f45e-2616-49fc-87ec-0acac84969b2)
